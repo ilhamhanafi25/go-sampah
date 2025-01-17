@@ -1,0 +1,16 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 538 80" width="538" height="80">
+	<title>New Project</title>
+	<defs>
+		<image width="1131" height="941" id="img1" href="C:\xampp\htdocs\bank-sampah\public\assets\img\kaiadmin,
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 73px;fill: #000000;font-weight: 700;font-family: "Montserrat-Bold", "Montserrat" } 
+		.t1 { font-size: 73px;fill: #000000;font-weight: 400;font-family: "Montaga-Regular", "Montaga" } 
+	</style>
+	<text id="banksampah" style="transform: matrix(1,0,0,1,96,62)" >
+		<tspan x="0" y="0" class="t0">b</tspan><tspan  y="0" class="t0">a</tspan><tspan  y="0" class="t0">n</tspan><tspan  y="0" class="t0">k</tspan><tspan  y="0" class="t1">s</tspan><tspan  y="0" class="t1">a</tspan><tspan  y="0" class="t1">m</tspan><tspan  y="0" class="t1">p</tspan><tspan  y="0" class="t1">a</tspan><tspan  y="0" class="t1">h
+</tspan>
+	</text>
+	<use id="pngegg copy 4" href="#img1" transform="matrix(.085,0,0,.085,4,-4)"/>
+</svg>
